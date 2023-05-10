@@ -4,7 +4,7 @@ This is a Pokedex application built with React and Bootstrap. It uses the [PokeA
 
 ## Features
 - List display of Pokemon data
-- Search functionality to find Pokemon by name
+- Search functionality to find Pokemon by ID/name
 
 ## Getting Started with Create React App
 
